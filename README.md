@@ -4,6 +4,7 @@ An interactive Power BI analytics project exploring customer behavior, policy pr
 
 The project transforms insurance customer data into business-focused insights through an analytical dashboard designed to support marketing, sales, policy, and customer-experience decisions.
 
+
 Project Overview
 
 The dashboard analyzes several dimensions of the insurance business:
@@ -144,6 +145,7 @@ Special Auto
 
 The dashboard includes a daily complaint trend to identify fluctuations over time.
 
+
 Key Findings
 
 According to the dashboard analysis:
@@ -157,6 +159,7 @@ Coverage opportunity: Premium coverage is associated with higher-income customer
 Sales performance: Agent-based sales perform best, while web-based offers struggle.
 
 Complaints: Overall complaint volume is relatively low, with complaints mainly associated with corporate policies.
+
 
 Business Recommendations
 
@@ -176,6 +179,7 @@ Monitor Corporate Policy Complaints
 
 Investigate the sources of complaints associated with Corporate Auto policies and use the findings to improve the customer experience and reduce complaint rates.
 
+
 Tools
 
 Power BI
@@ -189,6 +193,7 @@ Data Visualization
 Business Intelligence
 
 Exploratory Data Analysis
+
 
 Analytical Approach
 
@@ -208,30 +213,6 @@ Visualize relationships and trends in Power BI
 
 Translate analytical findings into business recommendations
 
-Repository Structure
-
-car-insurance-analytics/
-│
-├── README.md
-├── data/
-│   └── car_insurance_data.csv
-│
-├── powerbi/
-│   └── car_insurance_analytics.pbix
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── documentation/
-    └── project_notes.md
-
-File names and folder structure can be adjusted to match the final repository.
-
-Dashboard Preview
-
-Add a screenshot of the completed Power BI dashboard here:
-
-![Car Insurance Analytics Dashboard](screenshots/dashboard.png)
 
 Project Outcome
 
@@ -240,6 +221,7 @@ This project demonstrates how raw insurance data can be transformed into an inte
 Customer behavior → Policy preferences → Sales channels → Financial performance → Complaints → Business decisions
 
 The objective is not only to visualize the data, but to turn the analysis into actionable insights for customer targeting, policy strategy, sales optimization, and customer-experience improvement.
+
 
 Source
 
